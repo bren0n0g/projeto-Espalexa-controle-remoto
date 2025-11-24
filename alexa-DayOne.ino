@@ -19,8 +19,8 @@ void firstLightChanged(uint8_t brightness);
 
 
 // --- CONFIGURAÇÃO DO WIFI (ALTERE AQUI) ---
-const char* ssid = "Machado_2G_Ext";
-const char* password = "20091975Fe";
+const char* ssid = "SSID";
+const char* password = "SENHA";
 
 boolean wifiConnected = false;
 
